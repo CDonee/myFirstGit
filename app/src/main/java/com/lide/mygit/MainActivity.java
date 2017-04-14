@@ -13,4 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void  addBranch_1(){};
+
+    public void  addBrach_2(){};
 }
