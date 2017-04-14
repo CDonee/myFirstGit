@@ -13,4 +13,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.print("你好啊 ddddd我来到了");
         Log.d("test","创建新的分之了!");
     }
+
+    public void  createFeature_1(){
+
+    }
 }
